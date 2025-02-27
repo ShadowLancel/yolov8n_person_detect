@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF009274-4241-40E5-9990-27B147F5507C}|Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF009274-4241-40E5-9990-27B147F5507C}|Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO.pyproj|solutionrelative:Jun_Task_CV_YOLO\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF009274-4241-40E5-9990-27B147F5507C}|Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\detector.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF009274-4241-40E5-9990-27B147F5507C}|Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO.pyproj|solutionrelative:Jun_Task_CV_YOLO\\detector.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF009274-4241-40E5-9990-27B147F5507C}|Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO.pyproj|C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF009274-4241-40E5-9990-27B147F5507C}|Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO.pyproj|solutionrelative:Jun_Task_CV_YOLO\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\main.py",
+              "RelativeDocumentMoniker": "Jun_Task_CV_YOLO\\main.py",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\main.py",
+              "RelativeToolTip": "Jun_Task_CV_YOLO\\main.py",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-27T12:29:21.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\utils.py",
+              "RelativeDocumentMoniker": "Jun_Task_CV_YOLO\\utils.py",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\utils.py",
+              "RelativeToolTip": "Jun_Task_CV_YOLO\\utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-27T13:19:36.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "detector.py",
+              "DocumentMoniker": "C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\detector.py",
+              "RelativeDocumentMoniker": "Jun_Task_CV_YOLO\\detector.py",
+              "ToolTip": "C:\\Users\\ShadowLancel\\source\\repos\\Jun_Task_CV_YOLO\\Jun_Task_CV_YOLO\\detector.py",
+              "RelativeToolTip": "Jun_Task_CV_YOLO\\detector.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-27T13:06:40.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
